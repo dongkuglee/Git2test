@@ -1,1 +1,1 @@
-print("Init Print Messafe")
+print("Init Print Message")
